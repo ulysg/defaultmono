@@ -10,5 +10,5 @@ for (const style of document.styleSheets) {
 }
 
 for (let node of document.querySelectorAll(selectors.join(","))) {
-	node.style.setProperty("font-family", "monospace", "important");
+  node.style.setProperty("font-family", "monospace", "important");
 }
