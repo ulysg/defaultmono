@@ -1,5 +1,5 @@
 let selectors = [];
-let pattern = /font-family:[\s\w]*mono/i;
+let pattern = /font-family:.*mono/i;
 
 for (const style of document.styleSheets) {
   for (const rule of style.cssRules) {

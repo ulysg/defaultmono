@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "DefaultMono",
-  "version": "2.0",
+  "version": "2.1",
   "description": "Reset monospace fonts to the default one.",
   "icons": {
     "48": "icons/icon-48.png"
